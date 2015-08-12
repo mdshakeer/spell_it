@@ -18,11 +18,11 @@ class SpellIt
 		spell_table << "<thead><tr><th colspan='2'>#{name}</th></tr></thead><tbody>"
 		name.split("").each do |letter|
 			if ALPHABETS.include? letter.downcase
-				spell_table << "<tr><td>#{letter}</td><td>#{ALPHABETS[letter]}</td></tr>"
+				spell_table << "<tr><td>#{letter}</td><td>#{ALPHABETS[letter.downcase]}</td></tr>"
 			elsif NUMBERS.include? letter.downcase
-				spell_table << "<tr><td>#{letter}</td><td>#{NUMBERS[letter]}</td></tr>"
+				spell_table << "<tr><td>#{letter}</td><td>#{NUMBERS[letter.downcase]}</td></tr>"
 			elsif SYMBOLS.include? letter.downcase
-				spell_table << "<tr><td>#{letter}</td><td>#{SYMBOLS[letter]}</td></tr>"
+				spell_table << "<tr><td>#{letter}</td><td>#{SYMBOLS[letter.downcase]}</td></tr>"
 			else
 				spell_table << "<tr><td>#{letter}</td><td>Not a symbol</td></tr>"
 			end
