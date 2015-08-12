@@ -12,11 +12,6 @@ Avoid confusion when spelling on the phone! Let us spell names, e-mail addresses
 
 # Example
 		<%= SpellIt.word("HelloWorld") %>
-<style type="text/css">
-.spellWordTable{display:inline-block;border:1px solid #444;margin:10px}
-.spellWordTable thead tr{background:#5d4485;color:#fff;}
-.spellWordTable td,.spellWordTable th{padding:3px 30px;border:1px solid #ddd;}
-</style>
 <div style="text-align:center">
 <table class="spellWordTable">
 <thead><tr><th colspan="2" style="text-align: center;">HelloWord</th></tr></thead>
