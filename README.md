@@ -7,7 +7,7 @@ Avoid confusion when spelling on the phone! Let us spell names, e-mail addresses
 ```ruby
 		gem 'spell_it', '~> 0.0.2'
 ```
-# How to use:
+# How to use
 
 ```ruby
 		SpellIt.word(word_to_spell)
