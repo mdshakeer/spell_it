@@ -10,10 +10,12 @@ Avoid confusion when spelling on the phone! Let us spell names, e-mail addresses
 # How to use:
 
 ```ruby
-		SpellIt.word(string_variable)
+		SpellIt.word(word_to_spell)
+		# You can pass your own css class for this table view
+		SpellIt.word(word_to_spell,your_own_class)
 ```		
 
-# Example
+<h4>Example:</h4>
 
 ```ruby
 		<%= SpellIt.word("HelloWorld") %>
