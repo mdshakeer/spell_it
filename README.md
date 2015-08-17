@@ -4,6 +4,7 @@
 Avoid confusion when spelling on the phone! Let us spell names, e-mail addresses, foreign words and technical terms automatically for you.
 
 [![Gem Version](https://badge.fury.io/rb/spell_it.svg)](http://badge.fury.io/rb/spell_it-rails)
+[![Code Climate](https://codeclimate.com/github/mdshakeer/spell_it/badges/gpa.svg)](https://codeclimate.com/github/mdshakeer/spell_it?branch=master)
 
 <h4>Installation:</h4>
 ```ruby
