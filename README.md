@@ -3,6 +3,8 @@
 
 Avoid confusion when spelling on the phone! Let us spell names, e-mail addresses, foreign words and technical terms automatically for you.
 
+[![Gem Version](https://badge.fury.io/rb/spell_it.svg)](http://badge.fury.io/rb/spell_it-rails)
+
 <h4>Installation:</h4>
 ```ruby
 		gem 'spell_it', '~> 0.0.2'
