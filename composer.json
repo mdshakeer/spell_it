@@ -3,7 +3,7 @@
 "description": "Avoid confusion when spelling on the phone! Let us spell names, e-mail addresses, foreign words and technical terms automatically for you.",
 "keywords": ["spell_it", "spell_me", "pronounce", "spell_word", "text", "tell"],
 "homepage": "https://github.com/mdshakeer/spell_it",
-"license": "N/A",
+"license": "https://www.github.com/mdshakeer",
 "authors": [
 {
 "name": "Mohammed Shakeer",
