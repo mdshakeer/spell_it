@@ -1,0 +1,19 @@
+{
+"name": "mdshakeer/spell_it",
+"description": "Avoid confusion when spelling on the phone! Let us spell names, e-mail addresses, foreign words and technical terms automatically for you.",
+"keywords": ["spell_it", "spell_me", "pronounce", "spell_word", "text", "tell"],
+"homepage": "https://github.com/mdshakeer/spell_it",
+"license": "N/A",
+"authors": [
+{
+"name": "Mohammed Shakeer",
+"email": "mdshakeer91@gmail.com",
+"homepage": "https://www.github.com/mdshakeer"
+}
+],
+"autoload": {
+"psr-4": {
+"mdshakeer\\spell_it\\": ""
+}
+}
+}
