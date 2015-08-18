@@ -6,6 +6,8 @@ Avoid confusion when spelling on the phone! Let us spell names, e-mail addresses
 [![Gem Version](https://badge.fury.io/rb/spell_it.svg)](http://badge.fury.io/rb/spell_it-rails)
 [![Dependency Status](https://gemnasium.com/mdshakeer/spell_it.svg)](https://gemnasium.com/mdshakeer/spell_it)
 [![Code Climate](https://codeclimate.com/github/mdshakeer/spell_it/badges/gpa.svg)](https://codeclimate.com/github/mdshakeer/spell_it?branch=master)
+[![Packagist Downloads](https://poser.pugx.org/mdshakeer/spell_it/downloads)](https://packagist.org/packages/mdshakeer/spell_it)
+[![Monthly Downloads](https://poser.pugx.org/mdshakeer/spell_it/d/monthly)](https://packagist.org/packages/mdshakeer/spell_it)
 
 <h4>Installation:</h4>
 ```ruby
